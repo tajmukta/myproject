@@ -1,0 +1,282 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{
+	overflow:hidden;
+	display:block;
+	
+	}
+.container{
+	width:1170px;
+	height:auto;
+	margin:auto;
+	overflow:hidden;
+	}
+header h1{
+	float:left;
+	margin:0px;
+	display:inline-block;
+
+		}
+header h1 img{
+	border-radius:25px;
+	}
+header ul{		
+ 	float:right;
+	padding-top:30px;
+	margin-left:20px;
+		}
+header ul li {
+    list-style: none;
+    display: inline-block;
+	
+}
+			
+header ul li a{
+		
+	text-decoration: none;
+	margin:20px;
+	
+	}
+.banner{
+    position: relative;
+	text-align:left;
+	background-size:cover;
+	background-repeat:no repeat;
+ 
+	}
+.inner-banner {
+    width: 372px;
+    float: right;
+    padding: 130px 0;
+}
+.inner-banner h2 {
+    background: #fff;
+    color: #000;
+    font-size: 20px;
+    font-weight: normal;
+    padding: 10px 2px 14px;
+ 
+}
+.inner-banner p {
+    background: #252525;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+    margin: 7px 0;
+    padding: 5px; 
+    /* float: right; */
+}
+button[type=submit]{
+	border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+	background-color:#990;
+	color:fff;
+	padding:5px;
+	}
+.photo{
+	text-align:center;
+	margin:20px;
+	padding-left:150px;
+	}
+.photo img{
+	border: 2px solid #000;
+    border-radius: 4px;
+	margin:10px;
+	
+	}
+.img{
+	float:left;
+	}
+.footer{
+	text-align:right;
+	padding:350px 0;
+	}
+.footer h1{
+	color:#000;
+	text-align:center;
+	}
+.footer ul{
+	margin:0;
+	padding:0;
+	background-color:#000;
+	}	
+.footer ul p{
+	color:#FFF;
+	float:left;
+	margin-left:300px;
+	margin-top:25px;
+	}
+.footer ul li{
+	list-style:none;
+	display:inline-block;
+	margin:10px;
+	padding:5px;
+    border: 2px solid #fff;
+	height:40px;
+	width:35px;
+
+	}
+.footer ul li a{
+	font-size:30px;
+	}
+/*...............................................*/
+
+header1{
+	overflow:hidden;
+	display:block;
+	
+	}
+.container1{
+	width:1170px;
+	height:auto;
+	margin:auto;
+	overflow:hidden;
+	}
+header1 h1{
+    text-align:center;
+	margin:0 auto;
+	display:block;
+	padding:44px 0 50px;;
+
+		}
+header1 ul{		
+    text-align:center;
+	padding-top:56px 0 0;
+	margin-left:20px;
+		}
+header1 ul li {
+    list-style: none;
+    display: inline-block;
+	
+}
+			
+header1 ul li a{
+		
+	text-decoration: none;
+	margin:20px;
+	font-size:18px;
+	color:#000;
+	}
+.body{
+	margin:0;
+	padding:0 0 30px;
+	text-align:center;
+	}
+.body h1 span{
+    background-color:#000;
+	display:inline-block;
+	padding: 15px 28px 12px;
+	color:#FFF;
+	font-size:35px;
+	
+	}
+.image{
+	
+	margin:24px 0 0;
+	padding:0;
+	text-align:center;
+	
+ }
+.image img{
+   border: 2px solid #000;
+ 
+}
+.article{
+	margin:0 auto;
+	padding:30px 30px 0;
+	width:560px;
+	}
+.article h3{
+	color: #252525;
+    line-height: 24px;
+	text-align:center;
+	}
+.footer1{
+	text-align:right;
+	padding:90px 0;
+	}
+.footer1 h1{
+	color:#000;
+	text-align:center;
+	}
+.footer1 ul{
+	margin:0;
+	padding:0;
+	background-color:#000;
+	}	
+.footer1 ul p{
+	color:#FFF;
+	float:left;
+	margin-left:300px;
+	margin-top:25px;
+	}
+.footer1 ul li{
+	list-style:none;
+	display:inline-block;
+	margin:10px;
+	padding:5px;
+    border: 2px solid #fff;
+	height:40px;
+	width:35px;
+
+	}
+.footer1 ul li a{
+	font-size:30px;
+	}
+.link{
+	float:left;
+	font-size:20px;
+	}
+/*............................................*/
+
+header2{
+	overflow:hidden;
+	display:block;
+	
+	}
+.container2{
+	width:1170px;
+	height:auto;
+	margin:auto;
+	overflow:hidden;
+	}
+header2 h1{
+    text-align:center;
+	margin:0 auto;
+	display:block;
+	padding:44px 0 50px;;
+
+		}
+header2 ul{		
+    text-align:center;
+	padding-top:56px 0 0;
+	margin-left:20px;
+		}
+header2 ul li {
+    list-style: none;
+    display: inline-block;
+	
+}
+			
+header2 ul li a{
+		
+	text-decoration: none;
+	margin:20px;
+	font-size:18px;
+	color:#000;
+	}
+.body{
+	margin:0;
+	padding:0 0 30px;
+	text-align:center;
+	}
+.body h1 span{
+    background-color:#000;
+	display:inline-block;
+	padding: 15px 28px 12px;
+	color:#FFF;
+	font-size:35px;
+	
+	}
